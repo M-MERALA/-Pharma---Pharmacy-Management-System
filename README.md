@@ -103,7 +103,6 @@ The system launches preloaded with sample data for quick validation. Use the fol
 | **Customer** | `customer` | `cust123` | Browse storefront, add items to cart, select payments, submit requests |
 
 # 📸 Screenshots
-
-![Screen1](https://raw.githubusercontent.com/USERNAME/REPO/main/screen1.png)
-
-![Screen2](https://raw.githubusercontent.com/USERNAME/REPO/main/screen2.png)
+![Screen1](screen1.png)
+![Screen2](screen2.png)
+![Screen3](screen3.png)
