@@ -102,34 +102,32 @@ The system launches preloaded with sample data for quick validation. Use the fol
 | **Pharmacist** | `pharmacist` | `pharm123` | Open POS, checkout orders, review customer prescription requests |
 | **Customer** | `customer` | `cust123` | Browse storefront, add items to cart, select payments, submit requests |
 
-git add .
-git commit -m "Added screenshots"
-git push
+
 
 
 # 📸 Application Screenshots
 
-![Screen1](screen1.png)
-![Screen2](screen2.png)
-![Screen3](screen3.png)
-![Screen4](screen4.png)
-![Screen5](screen5.png)
-![Screen6](screen6.png)
-![Screen7](screen7.png)
-![Screen8](screen8.png)
-![Screen9](screen9.png)
-![Screen10](screen10.png)
-![Screen11](screen11.png)
-![Screen12](screen12.png)
-![Screen13](screen13.png)
-![Screen14](screen14.png)
-![Screen15](screen15.png)
-![Screen16](screen16.png)
-![Screen17](screen17.png)
-![Screen18](screen18.png)
-![Screen19](screen19.png)
-![Screen20](screen20.png)
-![Screen21](screen21.png)
-![Screen22](screen22.png)
-![Screen23](screen23.png)
-![Screen24](screen24.png)
+![Screen1](Screen1.png)
+![Screen2](Screen2.png)
+![Screen3](Screen3.png)
+![Screen4](Screen4.png)
+![Screen5](Screen5.png)
+![Screen6](Screen6.png)
+![Screen7](Screen7.png)
+![Screen8](Screen8.png)
+![Screen9](Screen9.png)
+![Screen10](Screen10.png)
+![Screen11](Screen11.png)
+![Screen12](Screen12.png)
+![Screen13](Screen13.png)
+![Screen14](Screen14.png)
+![Screen15](Screen15.png)
+![Screen16](Screen16.png)
+![Screen17](Screen17.png)
+![Screen18](Screen18.png)
+![Screen19](Screen19.png)
+![Screen20](Screen20.png)
+![Screen21](Screen21.png)
+![Screen22](Screen22.png)
+![Screen23](Screen23.png)
+![Screen24](Screen24.png)
