@@ -102,3 +102,29 @@ The system launches preloaded with sample data for quick validation. Use the fol
 | **Pharmacist** | `pharmacist` | `pharm123` | Open POS, checkout orders, review customer prescription requests |
 | **Customer** | `customer` | `cust123` | Browse storefront, add items to cart, select payments, submit requests |
 
+# 📸 Application Screenshots
+
+![Screen1](screenshots/screen1.png)
+![Screen2](screenshots/screen2.png)
+![Screen3](screenshots/screen3.png)
+![Screen4](screenshots/screen4.png)
+![Screen5](screenshots/screen5.png)
+![Screen6](screenshots/screen6.png)
+![Screen7](screenshots/screen7.png)
+![Screen8](screenshots/screen8.png)
+![Screen9](screenshots/screen9.png)
+![Screen10](screenshots/screen10.png)
+![Screen11](screenshots/screen11.png)
+![Screen12](screenshots/screen12.png)
+![Screen13](screenshots/screen13.png)
+![Screen14](screenshots/screen14.png)
+![Screen15](screenshots/screen15.png)
+![Screen16](screenshots/screen16.png)
+![Screen17](screenshots/screen17.png)
+![Screen18](screenshots/screen18.png)
+![Screen19](screenshots/screen19.png)
+![Screen20](screenshots/screen20.png)
+![Screen21](screenshots/screen21.png)
+![Screen22](screenshots/screen22.png)
+![Screen23](screenshots/screen23.png)
+![Screen24](screenshots/screen24.png)
