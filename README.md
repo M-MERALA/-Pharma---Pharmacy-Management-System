@@ -102,6 +102,11 @@ The system launches preloaded with sample data for quick validation. Use the fol
 | **Pharmacist** | `pharmacist` | `pharm123` | Open POS, checkout orders, review customer prescription requests |
 | **Customer** | `customer` | `cust123` | Browse storefront, add items to cart, select payments, submit requests |
 
+git add .
+git commit -m "Added screenshots"
+git push
+
+
 # 📸 Application Screenshots
 
 ![Screen1](screen1.png)
